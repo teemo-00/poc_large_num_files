@@ -1,0 +1,21 @@
+{
+    "name": "CreateFiles",
+    "description": "",
+    "version": "0.0.1",
+    "main": "./CreateFiles.js",
+    "author": {
+        "name": "P699217",
+        "email": "you@email.example"
+    },
+    "keywords": [],
+    "licenses": {
+        "type": "none"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/YOUR_LOGIN/CreateFiles.git"
+    },
+    "bugs": {
+        "url": "http://github.com/YOUR_LOGIN/CreateFiles/issues"
+    }
+}
